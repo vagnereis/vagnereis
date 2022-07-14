@@ -3,8 +3,6 @@
 
 - 🌱 Estou aprimorando meus conhecimentos em **Machine Learning, Data Visualization, Deep Learning, Visão computacional entre outros**
 
-- 💬 Me pergunte sobre **Pyton, Power BI, Excel, Sql, R**
-
 - 📫 Você me acha pelo e-mail **vagnertech@gmail.com**
 
 - 📄 Saiba mais um pouco sobre mim [https://www.linkedin.com/in/vagner-reis/](https://www.linkedin.com/in/vagner-reis/)
