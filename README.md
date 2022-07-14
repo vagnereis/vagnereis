@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Vagner Reis</h1>
-<h3 align="center">Fascinado por Ciência, análise de dados e Business Intelligence</h3>
+<h3 align="center">Fascinado por Ciência de dados, análise de dados e Business Intelligence</h3>
 
 - 🌱 Estou aprimorando meus conhecimentos em **Machine Learning, Data Visualization, Deep Learning, Visão computacional entre outros**
 
