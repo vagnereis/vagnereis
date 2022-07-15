@@ -11,3 +11,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vagner-reis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vagner-reis/" height="30" width="40" /></a>
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+Copy To Clipboard
