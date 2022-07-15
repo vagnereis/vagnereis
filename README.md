@@ -35,9 +35,8 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <td><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=vagnereis&show_icons=true&theme=dark"></td>
 </table>
 
-<p>
-<h3 align="left">🔗 Entre em contato comigo:</h3>
 
+<h3 align="center">🔗 Conheça mais um pouco sobre mim:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/vagner-reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vagner Reis" height="30" width="40" /></a>
-
 </p>
