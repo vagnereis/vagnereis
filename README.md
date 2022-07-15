@@ -1,6 +1,8 @@
-### Hi there 👋, Me chamo Vagner Reis
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+<p align="center">
+  <img src="https://github.com/vagnereis/vagnereis/raw/main/banner.gif" alt="Vagner Reis">
+</p>
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
