@@ -25,20 +25,23 @@ Then i save result to [assets/github.gif](assets/github.gif)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnereis&show_icons=true&theme=dark)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vagnereis&label=Profile%20views&color=0e75b6&style=flat" alt="Vagner Reis" /> </p>
 
+
 <h3 align="left">🔗 Entre em contato comigo:</h3>
 
 <a href="https://linkedin.com/in/vagner-reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vagner Reis" height="30" width="40" /></a>
+
+</p>
+
 
 -->
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <p></p>
+<tr>
+<td><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=vagnereis&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D"></td>
 
-<img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=vagnereis&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D">
-
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=vagnereis&show_icons=true&theme=dark">
-
-
-
-
+<td><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=vagnereis&show_icons=true&theme=dark"></td>
+</tr>
+</div>
+<p>
 
