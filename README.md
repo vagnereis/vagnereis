@@ -1,14 +1,22 @@
-<h1 align="center">Oi 👋, Eu sou Vagner Reis</h1>
-<h3 align="center">Fascinado por Ciência, análise de dados e Business Intelligence</h3>
+### Hi there 👋, Me chamo Vagner Reis
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- 🌱 Estou aprimorando meus conhecimentos em **Machine Learning, Data Visualization, Deep Learning, Visão computacional entre outros**
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-- 📫 Você me acha pelo e-mail **vagnertech@gmail.com**
+Skills: PYTHON, CIÊNCIA DE DADOS, BI , SQL
 
-- 📄 Saiba mais um pouco sobre mim [https://www.linkedin.com/in/vagner-reis/](https://www.linkedin.com/in/vagner-reis/)
+- 🔭 I’m currently working on this page. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vagner-reis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vagner-reis/" height="30" width="40" /></a>
-</p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vagnereis&theme=vue-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&locale=pt-br)](https://git.io/streak-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vagnereis)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnereis&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vagnereis)  
+
+![Profile views](https://gpvc.arturio.dev/vagnereis)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vagnereis&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnereis&show_icons=true&theme=dark)
