@@ -1,7 +1,7 @@
 
-<p align="center">
+<div>
   <img src="https://github.com/vagnereis/vagnereis/raw/main/banner.gif" alt="Vagner Reis">
-</p>
+</div>
 
 <!--
 How to make the bio gif ?
@@ -11,23 +11,13 @@ Then i recorded my screen to gif on Mac with Quicktime  and save result to [asse
 This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
-<!--
-- 📫 Fale comigo em **vagnertech@gmail.com**
-- 🔭 I’m currently working on this page. 
-- 🔭 Atualmente estou trabalhando nos projetos XXXXX
-- 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
-- 📝 Eu regularmente escrevo em
-- 💬 Me pergunte sobre **tecnologia, ciência de dados)**
-- 📫 Fale comigo em **vagnertech@gmail.com**
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/vagner-reis](https://www.linkedin.com/in/vagner-reis)
-- ⚡ Habilidades: me comunico bem, gosto de trabalhar em equipe,  me sinto confiante para construir produtos e servicos de software
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vagnereis&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnereis&show_icons=true&theme=dark)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vagnereis&label=Profile%20views&color=0e75b6&style=flat" alt="Vagner Reis" /> </p>
--->
+
+ 
 
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
+
+
 
 <table>
 <td><img align="left" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=vagnereis&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D"></td>
@@ -36,7 +26,17 @@ Then i save result to [assets/github.gif](assets/github.gif)
 </table>
 
 
+
+<!--
+<div align="center"> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vagnertech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/vagner-reis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+-->
 <h3 align="center">🔗 Conheça mais um pouco sobre mim:</h3>
-<p align="center">
+<div align="center">
 <a href="https://linkedin.com/in/vagner-reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vagner Reis" height="30" width="40" /></a>
-</p>
+</div>
+
+![Snake animation](https://github.com/vagnereis/vagnereis/blob/output/github-contribution-grid-snake.svg)
