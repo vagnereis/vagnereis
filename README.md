@@ -39,4 +39,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <a href="https://linkedin.com/in/vagner-reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vagner Reis" height="30" width="40" /></a>
 </div>
 
+<!-- Cobrinha
 ![Snake animation](https://github.com/vagnereis/vagnereis/blob/output/github-contribution-grid-snake.svg)
+
+-->
