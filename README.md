@@ -38,7 +38,16 @@ Fazedor de gifs - https://picrew.me/image_maker/338224
 <a href="https://linkedin.com/in/vagner-reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vagner Reis" height="30" width="40" /></a>
 </div>
 
-<!-- Cobrinha
+<!-- 
+
+-- Cobrinha
 ![Snake animation](https://github.com/vagnereis/vagnereis/blob/output/github-contribution-grid-snake.svg)
+
+-- icones
+<div align=left>
+<img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
 -->
+
 
