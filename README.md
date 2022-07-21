@@ -19,6 +19,35 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <td><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=vagnereis&show_icons=true&theme=dark"></td>
 </table>
 
+<br />
+
+
+### Algumas linguagens e ferramentas que eu utilizo:
+
+<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+
+<img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+[<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
+
+<img align="left" alt="Azure" width="26px" src="https://www.parkmycloud.com/wp-content/uploads/2018/02/Azure_.png" />
+
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
+
+<img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
+
+<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
+
+<img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<br />
+
+
+
 <!--
 <div align="center"> 
   <a href="https://instagram.com/vagnertech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,8 +62,10 @@ Site de Badges 1 - https://dev.to/envoy_/150-badges-for-...
 Fazedor de gifs - https://picrew.me/image_maker/338224
 -->
 
-<h3 align="center">🔗 Conheça mais um pouco sobre mim:</h3>
-<div align="center">
+<br />
+<br />
+<h3 align="left">🔗 Conheça mais um pouco sobre mim:</h3>
+<div align="left">
 <a href="https://linkedin.com/in/vagner-reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vagner Reis" height="30" width="40" /></a>
 </div>
 
