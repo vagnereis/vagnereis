@@ -40,8 +40,9 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <img align="left" alt="Mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
-<br />
+<img align="left" alt="PowerBI" width="46px" src="https://logosmarcas.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo-500x281.png" />
 
+<br />
 
 <!--
 <div align="center"> 
