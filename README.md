@@ -1,6 +1,6 @@
 
 <div>
-  <img src="https://github.com/vagnereis/vagnereis/raw/main/banner.gif" alt="Vagner Reis">
+  
 </div>
 
 <!--
