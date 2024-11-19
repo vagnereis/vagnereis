@@ -1,8 +1,4 @@
 
-<div>
-  
-</div>
-
 <!--
 How to make the bio gif ?
 Thanks to [matyo91](https://github.com/matyo91)
